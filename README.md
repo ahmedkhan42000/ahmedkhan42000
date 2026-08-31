@@ -15,4 +15,4 @@ Python · XGBoost · Scikit-learn · Pandas · HuggingFace · PyTorch · FastAPI
 
 ## 📫 Contact
 Open to Werkstudent and internship roles in AI/ML.
-Connect with me on https://www.linkedin.com/in/ahmedali001
+Connect with me on [LinkedIn](https://www.linkedin.com/in/ahmedali001/)
