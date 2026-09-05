@@ -10,7 +10,7 @@ Python · XGBoost · Scikit-learn · Pandas · HuggingFace · PyTorch · FastAPI
 | Project | Description | Tech |
 |---|---|---|
 | [Titanic Survival Prediction](https://github.com/ahmedkhan42000/titanic-survival-prediction) | ML model predicting survival with 80.45% accuracy | XGBoost, Pandas, Matplotlib |
-| 🔨 NLP Sentiment Analyzer | Coming soon | HuggingFace, BERT, FastAPI |
+| [German Sentiment Analyzer](https://github.com/ahmedkhan42000/german-sentiment-analyzer) | NLP app analyzing German text sentiment — 99%+ confidence | HuggingFace, BERT, Streamlit |
 | 🔨 RAG Document Chatbot | Coming soon | LangChain, OpenAI, FAISS |
 
 ## 📫 Contact
