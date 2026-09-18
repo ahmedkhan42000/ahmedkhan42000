@@ -12,7 +12,7 @@ Python · XGBoost · Scikit-learn · Pandas · HuggingFace · PyTorch · FastAPI
 | [Titanic Survival Prediction](https://github.com/ahmedkhan42000/titanic-survival-prediction) | ML model predicting survival with 80.45% accuracy | XGBoost, Pandas, Matplotlib |
 | [German Sentiment Analyzer](https://github.com/ahmedkhan42000/german-sentiment-analyzer) | NLP app analyzing German text sentiment 77–99% confidence depending on sentence clarity' | HuggingFace, BERT, Streamlit |
 | [RAG Document Chatbot](https://github.com/ahmedkhan42000/rag-document-chatbot) | PDF chatbot with grounded, source-cited answers Live Demo | LangChain, OpenAI, FAISS |
-| [AI Job-Fit Scoring Automation](https://github.com/ahmedkhan42000/job-fit-scorer-automation) | n8n automation that scores job postings against my skills using the Groq LLM API, then logs results to Google Sheets.
+| [AI Job-Fit Scoring Automation](https://github.com/ahmedkhan42000/job-fit-scorer-automation) | n8n automation that scores job postings against my skills using the Groq LLM API, then logs results to Google Sheets. | n8n, automation, llm, groq, google-sheets, workflow-automation |
 
 ## 📫 Contact
 Open to Werkstudent and internship roles in AI/ML.
